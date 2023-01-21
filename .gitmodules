@@ -1,0 +1,6 @@
+[submodule "r3live"]
+	path = r3live
+	url = https://github.com/rosblox/r3live.git
+[submodule "livox_ros_driver"]
+	path = livox_ros_driver
+	url = https://github.com/rosblox/livox_ros_driver.git
